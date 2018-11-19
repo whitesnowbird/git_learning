@@ -1,2 +1,3 @@
 # git_learning
-study
+hello!world!
+repository for git study!
